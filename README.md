@@ -1,5 +1,5 @@
 # FPGA-RSA
-> National Chi Nan University(NCNU), CSIE
+> National Chi Nan University(NCNU) CSIE
 ### Author： 109321006 管文揚 109321011 劉昱萬 109321041 劉彥汝
 
 ## 輸入/輸出元件 Input / output unit
